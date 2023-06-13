@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution](https://github.com/khophisnow/interactive-card-details-form-main.git)
+- Live Site URL: [Live Site](https://khophisnow.github.io/interactive-card-details-form-main/)
 
 ## My process
 
